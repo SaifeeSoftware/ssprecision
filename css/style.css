@@ -2677,7 +2677,15 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   ul.nav.navbar-nav:last-child {
     padding-right: 10px;
 }
+.navbar-header .navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 0; 
+    font-size: 18px;
+    line-height: 20px;
+    color: #222222;
 
+}
 /*--------------------------------------------------*/
 
 /*# sourceMappingURL=style.css.map */
